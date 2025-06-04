@@ -2,7 +2,7 @@ package com.groupawesome;
 
 import com.birdbrain.Finch;
 
-public class test {
+public class FinchFinal {
     public static void main(String[] args) {
         Finch myFinch = new Finch();
         int count = 0;
