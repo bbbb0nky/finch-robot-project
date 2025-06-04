@@ -36,5 +36,5 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Implement colors with lights 
 - Implement notes onto finch
 ## Video or images of your robot in action (embedded or linked)
-![alt text](<Screenshot 2025-06-04 123255.png>)
+![alt text](assets/thumbnail.png)
 https://www.youtube.com/shorts/hWhyDseRg4M
